@@ -1,1 +1,1 @@
-pip install git+https://github.com/againeureka/evc.git
+pip install git+https://github.com/againeureka/hievc.git
